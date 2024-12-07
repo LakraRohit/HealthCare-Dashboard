@@ -1,6 +1,7 @@
 # React + Vite
 
 HealthCare DashbOARD App
+Deployed Ink - https://capable-taiyaki-5f4d40.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
